@@ -85,7 +85,7 @@
 		
 		<div class='blurb'>
 			<p>I am an alumnus of Tufts University and SCMS school of engineering and technology, graduating with a Master of Science with a major in Computer Science. Originally from Keerala,India but now residing in Boston, US. 
-			I want to be involved in projects that I can be proud of, join an amazing team and advance my development career. Take some time to look at my work, credential and if you're interested in helping me take this happen, <a href="#worktogether">let's get in touch</a></p>
+			I want to be involved in projects that I can be proud of, join an amazing team and advance my development career. Take some time to look at my work, credential and if you're interested in helping me take this happen, <a href="#contact">let's get in touch</a></p>
 		</div>
 		
 		<div class="resume-git">
@@ -226,28 +226,13 @@
 
 <!--	contact section-->
 	
-<section class="alt-section section-contact">
+<section class="section-contact">
 	<h3 id="contact">Contact</h3>
-	<div class="social-links">
-		<a href=https://github.com/aswathyd><i class="fa fa-github"></i></a>
-		<a href="https://www.linkedin.com/in/aswathydinesh"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
-		<a href=""><i class="fa fa-youtube" aria-hidden="true"></i></a>
-		<a href=""><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-		<a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>		
-	</div>
-	
-	<hr class="bar">
-	
-	<a class="biglink" href="mailto:aswathyd@gmail.com">aswathyd@gmail.com</a>
 	
 	
-</section>
+<!--	<hr class="bar">-->
 	
 	
-<!--Contact-->
-<section>
-	<h3 id="worktogether">Contact</h3>
-<!--	<p>Currently available for Contract or Full-Time work and would love to hear from you</p>-->
 	<form method="post" action="index.php">
 		
 		<div class="info-group">
@@ -268,8 +253,19 @@
 		
 	</form>
 	
+	<div class="social-links">
+		<a href=https://github.com/aswathyd><i class="fa fa-github"></i></a>
+		<a href="https://www.linkedin.com/in/aswathydinesh"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+		<a href=""><i class="fa fa-youtube" aria-hidden="true"></i></a>
+		<a href=""><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+		<a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>		
+	</div>
+	
+	
 	
 </section>
+	
+	
 
 
 <footer class="lockup">

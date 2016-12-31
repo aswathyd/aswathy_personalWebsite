@@ -310,6 +310,8 @@ h3{
 /*contact social media icon*/
 
 
+
+
 .social-links{
 	max-width: 500px;
 	margin: 0px auto 50px;
@@ -340,7 +342,6 @@ cursor: pointer;
 
 .social-links a{
 	display: block;
-	background: #E3E3E3;
 	font-size: 30px;
 	text-align: center;
 	line-height: 30px;
@@ -355,6 +356,7 @@ cursor: pointer;
 	opacity: 0.9;
 }
 
+/*
 .bar{
 	width:180px;
 	height:0px;
@@ -363,21 +365,11 @@ cursor: pointer;
 	opacity:.5;
 	
 }
+*/
 
-.biglink{
-	display: block;
-	text-align: center;
-	font-size: 50px;
-	font-weight: 100;
-	color: #CD853F;
-	opacity: .5;
-	
-}
 
-.biglink:hover{
-	opacity: .9;
-	
-}
+
+
 
 /*contact form*/
 
